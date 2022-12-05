@@ -10,6 +10,7 @@
 
 <h1>My First Heading</h1>
 <h2> after commit</h2>
+<h3> next level merge </h3>
 <p>My first paragraph.</p>
 
 </body>
